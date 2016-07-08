@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "xkcd";
-  src: url('http://antiyawn.com/uploads/Humor-Sans.ttf');
+  font-family: 'xkcd';
+  src: url('Humor-Sans.ttf');
 }
 
 body {
-  font-family: "xkcd", sans-serif;
+  font-family: 'xkcd', sans-serif;
   font-size: 16px;
   color: #333;
   text-align: center;
@@ -12,7 +12,7 @@ body {
 }
 
 text.title {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 path {
