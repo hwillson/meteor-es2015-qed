@@ -1,0 +1,11 @@
+{
+  "name": "es2015_qed",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "xkcdplot": "^1.1.0"
+  }
+}
